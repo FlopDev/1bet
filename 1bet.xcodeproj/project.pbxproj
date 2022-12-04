@@ -14,6 +14,7 @@
 		A6D667D0293D346C00C98493 /* _bet.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A6D667CE293D346C00C98493 /* _bet.xcdatamodeld */; };
 		A6D667D2293D346E00C98493 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6D667D1293D346E00C98493 /* Assets.xcassets */; };
 		A6D667D5293D346E00C98493 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6D667D3293D346E00C98493 /* LaunchScreen.storyboard */; };
+		A6D667DD293D387B00C98493 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D667DC293D387B00C98493 /* SignInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A6D667D1293D346E00C98493 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6D667D4293D346E00C98493 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6D667D6293D346E00C98493 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6D667DC293D387B00C98493 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A6D667D3293D346E00C98493 /* LaunchScreen.storyboard */,
 				A6D667D6293D346E00C98493 /* Info.plist */,
 				A6D667CE293D346C00C98493 /* _bet.xcdatamodeld */,
+				A6D667DC293D387B00C98493 /* SignInViewController.swift */,
 			);
 			path = 1bet;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				A6D667CA293D346C00C98493 /* ViewController.swift in Sources */,
 				A6D667C6293D346C00C98493 /* AppDelegate.swift in Sources */,
 				A6D667C8293D346C00C98493 /* SceneDelegate.swift in Sources */,
+				A6D667DD293D387B00C98493 /* SignInViewController.swift in Sources */,
 				A6D667D0293D346C00C98493 /* _bet.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
